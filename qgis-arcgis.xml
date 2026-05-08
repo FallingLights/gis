@@ -1,0 +1,10 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver authcfg="" username="" url="https://gis.arso.gov.si/arcgis/rest/services" name="ARSO ArcGIS" password=""/>
+    <arcgisfeatureserver authcfg="" username="" url="https://geohub.gov.si/ags/rest/services" name="GeoHub ArcGIS" password=""/>
+    <arcgisfeatureserver authcfg="" username="" url="https://gis1.ljubljana.si/arcgis/rest/services" name="Ljubljana ArcGIS 01" password=""/>
+    <arcgisfeatureserver authcfg="" username="" url="https://gis06.ljubljana.si/arcgis/rest/services" name="Ljubljana ArcGIS 06" password=""/>
+    <arcgisfeatureserver authcfg="" username="" url="https://pobude.ljubljana.si/arcgis/rest/services/" name="Ljubljana Pobude ArcGIS" password=""/>
+    <arcgisfeatureserver authcfg="" username="" url="https://gis.geo-zs.si/server/rest/services/" name="geo-zs ArcGis" password=""/>
+    <arcgisfeatureserver authcfg="" username="" url="https://gisportal.furs.gov.si/arcgis/rest/services/" name="gisportal FURS ArcGIS" password=""/>
+</qgsARCGISFEATURESERVERConnections>
